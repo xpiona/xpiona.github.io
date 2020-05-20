@@ -9,19 +9,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Hoon Code Blog
+subtitle: "Towards a higher point"
+email: xpiona95@gmail.com
+name: Jae Hoon Lee
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Let's study and record.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://xpiona.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/sky.jpg"
+logo: "/assets/q.jpg"
 
 # Build settings
 markdown: kramdown
